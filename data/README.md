@@ -1,7 +1,4 @@
 ## Dataset
-
-We provide three processed datasets: Baby, Sports, Clothing
-
-Download from Google Drive: [Baby/Sports/Clothing](https://drive.google.com/drive/folders/1tU4IxYbLXMkp_DbIOPGvCry16uPvolLk)
-
-* Please move your downloaded data into this dir for model training.
+Due to the large size of the dataset and website upload limitations, 
+we will release all datasets promptly after the paper is accepted. 
+Furthermore, you can easily obtain the same dataset used in this paper from our baseline method.
